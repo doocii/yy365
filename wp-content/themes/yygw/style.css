@@ -1,0 +1,8 @@
+.context p {padding:5px 0px; margin:0;line-height:22px;text-indent:2em;}
+ul.ryzz_flo li{
+	float:left;
+}
+/*偶数行*/
+ul.ryzz_flo li:nth-of-type(even){
+	/*margin-left: 20px;*/
+}
